@@ -86,4 +86,4 @@ python draw_wing.py
 
 ## 许可证
 
-本项目使用 [MIT License](LICENSE)，版权归 Joseph Phantom 所有。
+本项目使用 [MIT License](LICENSE)，版权归 Sibo Qiu 所有。
