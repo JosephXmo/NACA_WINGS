@@ -1,0 +1,21 @@
+# macOS and local editor settings
+.DS_Store
+.vscode/
+.idea/
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Fortran build artifacts
+*.o
+*.mod
+*.smod
+/nacawings
+/nacawings.exe
+
+# Generated airfoil data
+/PROFILE.DAT
+/RESULTS.DAT
